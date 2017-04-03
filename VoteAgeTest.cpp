@@ -2,7 +2,7 @@
 using namespace std;
 //this adds the libraries of the commands
 
-int main() :
+int main()
 {
   cout << "How old are you?";
 //this asks the user how old they are
@@ -19,4 +19,4 @@ else {
   }
 //if the age is 18 or more, it tells you that you can vote
   return 0;
-}
+};
