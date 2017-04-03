@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  int Age;
+   Age;
 //creates a variable of the age so that the input can be processed
   cout << "How old are you?" << endl;
 //this asks the user how old they are
