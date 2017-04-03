@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-  cout << "How old are you?";
-//this asks the user how old they are
-   int Age;
+  int Age;
 //creates a variable of the age so that the input can be processed
+  cout << "How old are you?" << endl;
+//this asks the user how old they are
   cin >> Age;
 //asks for an input of your age
   if (Age >18) {
